@@ -1,3 +1,2 @@
 Hey Welcome to gitbash master here putting the sentence in file1.
-Updated file.
-Hey there guys this is the new updated one and have some fun looking through the code!
+Hey there guys i have made some changes in this file1.txt, and will type git pull from remote repository to local content repository.
